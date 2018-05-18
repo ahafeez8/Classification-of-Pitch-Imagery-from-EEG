@@ -84,7 +84,7 @@ nn.type           = 'classification';
 
 ## Improvements:
 The results can be improved by:
-    1. Increasing the number of hidden layers on the neural networks. Currently it uses 200 layers.
-    2. Using a larger training dataset. This dataset was of only 4 subjects (approx.  #50000)  reduced to 8 channels and 5th subject was used as test data. The results can be much better with a larger dataset. 
-    3. Using a deep convolutional network for multi label classification. 
+- Increasing the number of hidden layers on the neural networks. Currently it uses 200 layers.
+- Using a larger training dataset. This dataset was of only 4 subjects (approx.  #50000)  reduced to 8 channels and 5th subject was used as test data. The results can be much better with a larger dataset. 
+- Using a deep convolutional network for multi label classification. 
 
