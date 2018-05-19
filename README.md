@@ -25,7 +25,7 @@ The data available was preprocessed according to the following description:
 These mat files were then loaded into matlab and data for ⅘ subjects were concatenated and labelled for training dataset. 
 Labels are such as C4 => 0, D4 => 1, E4 =>2. The data for 8/32 channels was then extracted for channels of auditory imagery: F7, F8, AF3, AF4 and Auditory perception: T7, T8, TP7, TP8.
 ```
-d = 'F:\upwork\EEG\10thMAY\testsets\';
+d = filepath;
 
 ff =  what(d);
 con=[];
